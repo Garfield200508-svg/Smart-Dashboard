@@ -1,2 +1,2 @@
-# Smart-Dashboard-
+# Smart-Dashboard
 My Smart Dashboard with Laravel 
